@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Tyska Alexander Orthodontics",
+      "title": "Richmond Pediatric Dentistry & Orthodontics",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-        "alt": "Smiling patients and orthodontic team at Tyska Alexander Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.webp",
+        "alt": "Richmond Pediatric Dentistry & Orthodontics exterior and family-friendly entrance",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -42,13 +42,10 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Tyska Alexander Orthodontics",
+      "title": "Welcome to RPDO",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors consult together when designing treatment plans so you benefit from multiple experienced specialists and a customized approach."
-        },
-        {
-          "text": "We have an experienced, compassionate team who will be by your side throughout care. From the first consultation through retention, we focus on clear communication, modern techniques, and a comfortable experience for patients of all ages."
+          "text": "At Richmond Pediatric Dentistry & Orthodontics, we strive to deliver radiant, healthy smiles to families across Richmond, VA. Our kind and caring team is committed to providing professional, high‑quality pediatric dental and orthodontic care in a relaxing, fun environment. We combine specialized expertise, state‑of‑the‑art technology, and a patient‑first philosophy to make every visit comfortable and effective for children and patients of all ages."
         }
       ],
       "component_options": {
@@ -62,14 +59,14 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "Why Choose Us",
+      "title": "Why Choose RPDO",
       "items": [
         {
-          "title": "Collaborative Care",
+          "title": "Bi‑Specialty Care",
           "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/769563019_Tools_dentist_and_woman_with_child_for_exam_health.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/769563019_Tools_dentist_and_woman_with_child_for_exam_health.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -79,10 +76,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Experienced"
+              "context_category": "All Ages"
             }
           },
-          "text": "Treatment plans are developed with input from multiple experienced orthodontists, giving each patient the benefit of several specialists’ perspectives.",
+          "text": "One of Richmond’s longest‑running practices with an integrated pediatric dentistry and orthodontics model to support patients from early childhood through orthodontic care.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -94,11 +91,11 @@
           }
         },
         {
-          "title": "Customized Plans",
-          "icon": "file-chart-tooth",
+          "title": "Community Focused",
+          "icon": "communication-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -108,10 +105,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Better Care"
+              "context_category": "Community"
             }
           },
-          "text": "Every treatment plan is tailored to the patient’s needs, focusing on long‑term health and results that fit your lifestyle.",
+          "text": "We give back through local programs and Smiles for Change, and maintain strong ties to Richmond families and organizations.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -123,11 +120,11 @@
           }
         },
         {
-          "title": "Advanced Technology",
-          "icon": "laptop-tooth",
+          "title": "Kid‑Centric Offices",
+          "icon": "shiny-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/262028825_Child_smiling_while_sitting_in_the_dentists_chair.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/262028825_Child_smiling_while_sitting_in_the_dentists_chair.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -137,39 +134,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Modern Equipment"
+              "context_category": "Kid"
             }
           },
-          "text": "We use digital scanning and modern tools, and the doctors pursue ongoing education to expand treatment options and improve comfort.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Friendly Team",
-          "icon": "thumbs-up-tooth",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          },
-          "text": "Our patient‑focused staff provides compassionate support and clear guidance through every step of treatment.",
+          "text": "Friendly, fun offices designed for children with behavior‑management techniques, games, TVs and a welcoming team to reduce anxiety.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -191,7 +159,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "tooth-two-v1",
         "color": "black"
       },
       "component_options": {
@@ -209,19 +177,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Sarah Yi",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Edwin L. Tyska, DDS, enjoys orthodontics and serving patients in the Buffalo area. He emphasizes treating every patient as he would his own family and stays current through continuing education to deliver thoughtful, effective care."
+          "text": "Sarah Yi, DDS — Pediatric Dentist. Dr. Yi earned her Bachelor of Science with honors in Biology at Virginia Commonwealth University and her Doctor of Dental Surgery from VCU School of Dentistry. She completed her pediatric residency at Children’s Hospital Colorado. Dr. Yi loves working with children, connecting over their interests, and creating calm, positive visits."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "alt": "Dr. Edwin Tyska, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Sarah Yi, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -230,11 +198,11 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Experienced"
+          "context_category": "Kid"
         }
       },
       "video": {
-        "type": "embedded",
+        "type": "file",
         "src": ""
       },
       "buttons": [
@@ -242,11 +210,11 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Tyska",
-            "aria_label": "Learn about Dr. Tyska",
+            "label": "Meet Dr. Yi",
+            "aria_label": "Learn about Dr. Sarah Yi",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "#meet-the-doctor",
             "external": false,
             "include_icon": false,
             "icon": "pencil",
@@ -266,30 +234,30 @@
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
-      "has_background": true,
+      "has_background": false,
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": true,
+      "large_title": false,
       "title_color": "text",
       "title_underline_color": "primary",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Jayakumar Jayaraman",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Kristen M. Alexander, DDS, is a Buffalo native who brings a commitment to continuing education and the latest treatment options. She focuses on clear communication and delivering strong, lasting results for patients of all ages."
+          "text": "Jayakumar Jayaraman, BDS, MDS, MS, PhD — Pediatric Dentist. Dr. Jayaraman completed dental and postgraduate training in Chennai and at the University of Hong Kong, followed by a Certificate and Master of Science in Pediatric Dentistry at the University of Texas Health San Antonio. He brings deep academic experience and a gentle, patient approach to children’s dental care."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "alt": "Dr. Kristen Alexander, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
+        "webp": "",
+        "alt": "Dr. Jayakumar Jayaraman, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -298,11 +266,11 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Experienced"
+          "context_category": "Kid"
         }
       },
       "video": {
-        "type": "embedded",
+        "type": "file",
         "src": ""
       },
       "buttons": [
@@ -310,11 +278,11 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Alexander",
-            "aria_label": "Learn about Dr. Alexander",
+            "label": "Meet Dr. Jayaraman",
+            "aria_label": "Learn about Dr. Jayakumar Jayaraman",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "#meet-the-doctor",
             "external": false,
             "include_icon": false,
             "icon": "pencil",
@@ -334,21 +302,429 @@
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
-      "has_background": true,
+      "has_background": false,
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": true,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Rachel Thornton",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Rachel Thornton, DDS — Pediatric Dentist. Dr. Thornton earned her DDS from Marquette University and completed pediatric training at Yale New Haven Hospital, where she served as Chief Resident. She focuses on patient education and helping children overcome fear of the dentist with a calm, compassionate approach."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2025/06/RPDO-rachel-thorton.jpg",
+        "webp": "",
+        "alt": "Dr. Rachel Thornton, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Kid"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Thornton",
+            "aria_label": "Learn about Dr. Rachel Thornton",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Kevin Bibona",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Kevin Bibona, DDS — Orthodontist. Dr. Bibona completed his dental degree and orthodontic certificate at VCU School of Dentistry. He enjoys guiding patients through treatment and seeing their confidence grow, and he brings a patient‑centered, thoughtful approach to orthodontic care."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Kevin Bibona, Orthodontist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Bibona",
+            "aria_label": "Learn about Dr. Kevin Bibona",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Payton Cook",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Payton Cook, DDS — Orthodontist. A Richmond native, Dr. Cook earned her DDS at VCU and completed orthodontic training at UTHealth Houston. She combines clinical expertise with a gentle chairside manner to help patients achieve confident smiles."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Payton Cook, Orthodontist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Teen"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Cook",
+            "aria_label": "Learn about Dr. Payton Cook",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Bill Dahlke",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Bill Dahlke, DMD — Pediatric Dentist. Dr. Dahlke brings nearly 20 years of pediatric dentistry experience. He completed undergraduate studies at the University of Nevada–Reno and earned his DMD at UNLV School of Dental Medicine, where he also completed pediatric dentistry training. Dr. Dahlke enjoys getting to know families and making dental visits positive for kids."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Bill Dahlke, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Dahlke",
+            "aria_label": "Learn about Dr. Bill Dahlke",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Raymonia Eddleton",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Raymonia Eddleton, DDS — Pediatric Dentist. A Richmond native, Dr. Eddleton completed undergraduate studies at Virginia Tech and earned her DDS from the University of Tennessee, then trained in pediatric dentistry at Cincinnati Children’s Hospital Medical Center. She brings extensive experience and a warm chairside manner to family care."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/EDDLEMAN-Dressed-up-headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Raymonia Eddleton, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Eddleton",
+            "aria_label": "Learn about Dr. Raymonia Eddleton",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Jasmine Chopra",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Jasmine Chopra, DDS — Pediatric Dentist. Dr. Chopra trained at VCU and completed her DDS at the University of Minnesota, followed by a pediatric dentistry certificate from NYU Langone. She values building trust with families and creating positive dental habits for children."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Jasmine Chopra, Pediatric Dentist at Richmond Pediatric Dentistry & Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Kid"
+        }
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Chopra",
+            "aria_label": "Learn about Dr. Jasmine Chopra",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
       "title_color": "text",
       "title_underline_color": "primary",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "block_masonary_grid",
-      "title": "Explore Our Treatments",
+      "title": "Our Treatments Overview",
       "paragraphs": [
         {
-          "text": "We offer a full range of orthodontic services, from discreet clear aligners to fixed braces and retainers, plus digital scanning for a comfortable, accurate fit."
+          "text": "We offer a full range of pediatric dental and orthodontic services, including braces, removable clear aligners, early evaluations to guide growth, and child‑focused restorative care."
         }
       ],
       "button": {
@@ -361,7 +737,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "tooth-two-v1",
         "color": "black"
       },
       "links": true,
@@ -369,29 +745,9 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Patient holding Invisalign aligners",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "title": "Invisalign<sup>®</sup>",
-          "path": "/treatments",
-          "hash": "#invisalign"
-        },
-        {
-          "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Patient smiling with ceramic braces",
+            "alt": "Icon for braces",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -400,18 +756,18 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Braces"
             }
           },
-          "title": "Clear & Metal Braces",
+          "title": "Braces",
           "path": "/treatments",
           "hash": "#braces"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-            "alt": "Various orthodontic retainers displayed",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
+            "alt": "Icon for clear aligners",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -423,15 +779,15 @@
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Retainers",
+          "title": "Clear Aligners",
           "path": "/treatments",
-          "hash": "#retainers"
+          "hash": "#clear-aligners"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital scanning equipment used for orthodontic impressions",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/351557806_A_girl_with_a_removable_orthodontic_appliance_and.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/351557806_A_girl_with_a_removable_orthodontic_appliance_and.webp",
+            "alt": "Icon for early orthodontic treatment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -440,12 +796,32 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Modern Equipment"
+              "context_category": "Initial Visit"
             }
           },
-          "title": "Digital Scanning",
+          "title": "Early Orthodontics",
           "path": "/treatments",
-          "hash": "#advanced-technology"
+          "hash": "#early-orthodontics"
+        },
+        {
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
+            "alt": "Pediatric restorative dentistry",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Restorative Treatments"
+            }
+          },
+          "title": "Pediatric Dentistry",
+          "path": "/treatments",
+          "hash": "#pediatric-dentistry"
         }
       ],
       "component_options": {
@@ -458,18 +834,53 @@
       "reverse_row": false
     },
     {
+      "acf_fc_layout": "multi_item_testimonial",
+      "title": "Patient Testimonials",
+      "review_text": "Read More Reviews",
+      "links": [
+        {
+          "href": "https://rpdo.com/patient-testimonials/",
+          "icon": "facebook",
+          "color": "primary"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sheri",
+          "testimonial": "“From the moment we walked in, we felt welcomed and comfortable. The entire team was incredibly nice, caring, and professional.”"
+        },
+        {
+          "author": "Christina",
+          "testimonial": "“Our experience has been phenomenal! The front desk ladies are so friendly & welcoming, and all of the orthodontists have been warm & kind.”"
+        },
+        {
+          "author": "Khadija",
+          "testimonial": "“RPDO has always been amazing since we started taking my little one almost two years ago. They are always so friendly, patient and informative!”"
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": ""
+    },
+    {
       "acf_fc_layout": "multi_use_banner",
       "title": "Follow Us on Social Media",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM",
-          "icon": "facebook"
+          "href": "https://www.instagram.com/rpdosmiles/",
+          "icon": "instagram"
         },
         {
-          "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-          "icon": "youtube"
+          "href": "https://www.facebook.com/rpdosmiles/",
+          "icon": "facebook"
         }
       ],
       "email": "",
@@ -497,14 +908,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.webp",
-        "alt": "Parents with kids relaxing in front of home",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.webp",
+        "alt": "Smiling child patient at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -547,14 +958,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
+        "alt": "Happy family after a dental visit at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -568,15 +979,15 @@
     },
     {
       "seo": {
-        "page_title": "Home - Tyska Alexander Orthodontics",
-        "page_description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, braces, retainers, and digital scanning",
-        "page_keywords": "orthodontics, Invisalign, braces, retainers, digital scanning, Tyska Alexander, Clarence, Tonawanda",
+        "page_title": "Home - Richmond Pediatric Dentistry & Orthodontics",
+        "page_description": "Richmond Pediatric Dentistry & Orthodontics provides pediatric dental and orthodontic care in Richmond, VA, including braces, clear aligners, early evaluations,",
+        "page_keywords": "pediatric dentist, orthodontist, Richmond VA, braces, clear aligners, pediatric dentistry, early orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Tyska Alexander Orthodontics",
-            "description": "Personalized orthodontic care in Clarence and Tonawanda, NY — Invisalign®, braces, retainers, and modern digital scanning.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "Home - Richmond Pediatric Dentistry & Orthodontics",
+            "description": "Richmond Pediatric Dentistry & Orthodontics provides pediatric dental and orthodontic care in Richmond, VA, including braces, clear aligners, and restorative,",
+            "image": "https://rpdo.com/wp-content/uploads/2024/09/richmond-virginia-e1727288722885.jpg"
           }
         }
       }
@@ -602,9 +1013,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.webp",
-        "alt": "Team of orthodontic professionals smiling in the office lobby",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+        "alt": "Welcoming pediatric dental team smiling in a bright Richmond dental office lobby",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -626,10 +1037,16 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "We recognize that all of our patients are unique and deserve to receive orthodontic care that reflects their individual needs. Our experienced and talented team is committed to working with you and your family to create a comfortable, stress‑free, and rewarding orthodontic experience every time you visit our practice. We are pleased to welcome you and your family, and we look forward to working with you."
+          "text": "At Richmond Pediatric Dentistry & Orthodontics we strive to deliver radiant, healthy smiles to families across Richmond, VA. Our kind and caring team is committed to providing professional, high-quality care in an environment that is relaxing and fun."
         },
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Our doctors consult together when they design a treatment plan for each patient, so you benefit from multiple specialists collaborating on one customized plan tailored to your needs. With individualized attention to detail, our goal is to make your mouth healthy and your smile beautiful."
+          "text": "We take a patient-centered approach that blends specialized pediatric and orthodontic treatments with compassionate communication. Our goal is to make dental and orthodontic visits positive, comfortable, and achievable for every family."
+        },
+        {
+          "text": "Using modern techniques and a gentle touch, we offer tailored care for children, teens, and adults — from routine pediatric visits to braces and Invisalign<sup>®</sup> — so each patient leaves healthier and more confident."
+        },
+        {
+          "text": "We believe in building long-term relationships with families, supporting oral health through education, flexible scheduling, and community partnerships that make care easier to access."
         }
       ],
       "component_options": {
@@ -647,12 +1064,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Jayaraman",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+        "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
         "webp": "",
-        "alt": "Dr. Edwin L. Tyska",
+        "alt": "Dr. Jayakumar Jayaraman headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -669,13 +1086,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Following his postgraduate studies, Dr. Edwin L. Tyska began his career in private practice and later became a partner. He brings long‑standing clinical experience and a collaborative approach to each treatment plan."
+              "text": "Dr. Jayakumar Jayaraman, BDS, MDS, MS, PhD is a pediatric dentist with extensive training and a deep commitment to working with children. He brings a calm, patient-centered style to every visit and enjoys making dental care approachable and even fun for his youngest patients."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
             "webp": "",
-            "alt": "Dr. Edwin L. Tyska in clinic",
+            "alt": "Dr. Jayakumar Jayaraman smiling",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -687,16 +1104,16 @@
           }
         },
         {
-          "header": "Continuing Education",
+          "header": "Education",
           "paragraphs": [
             {
-              "text": "Dr. Tyska and the doctors in the practice regularly participate in continuing education programs to stay current with treatment methods, materials, and the latest technology."
+              "text": "Dr. Jayaraman completed his Bachelor of Dental Surgery in Chennai, India, and earned a Master of Dental Surgery and Doctor of Philosophy at the University of Hong Kong. He also holds a Certificate in Pediatric Dentistry and a Master of Science in Pediatric Dentistry from the University of Texas Health San Antonio."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
             "webp": "",
-            "alt": "Dr. Tyska at a continuing education event",
+            "alt": "Dr. Jayakumar Jayaraman portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -708,16 +1125,16 @@
           }
         },
         {
-          "header": "Outside the Office",
+          "header": "Personal",
           "paragraphs": [
             {
-              "text": "A resident of East Amherst, Dr. Tyska is active with family life, coaches the Lou Gehrig Lasers travel girls’ softball league, enjoys golf, travel, and supporting the Buffalo Sabres."
+              "text": "Outside the office Dr. Jayaraman enjoys traveling, trying new foods, cooking, and learning to fly. He brings warmth and a gentle approach to care, helping children feel safe and engaged during visits."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
             "webp": "",
-            "alt": "Dr. Tyska supporting local youth sports",
+            "alt": "Dr. Jayakumar Jayaraman casual portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -730,7 +1147,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-tyska",
+        "hash": "meet-dr-jayaraman",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -748,12 +1165,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Payton Cook",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
         "webp": "",
-        "alt": "Dr. Kristen M. Alexander",
+        "alt": "Dr. Payton Cook headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -770,13 +1187,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Kristen M. Alexander maintains an active clinical practice and brings a patient‑centered approach to treatment, focusing on clear communication and individualized care."
+              "text": "Dr. Payton Cook, DDS is a board-trained orthodontist who provides comprehensive orthodontic care for children, teens, and adults. She is known for a gentle, patient-focused style and a strong commitment to helping patients achieve confident, healthy smiles."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Dr. Kristen M. Alexander in clinic",
+            "alt": "Dr. Payton Cook smiling",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -788,16 +1205,16 @@
           }
         },
         {
-          "header": "Affiliations & Education",
+          "header": "Education",
           "paragraphs": [
             {
-              "text": "Dr. Alexander regularly participates in continuing education and maintains professional affiliations with local and national dental and orthodontic organizations to ensure patients benefit from current best practices."
+              "text": "Dr. Cook earned a B.S. in Biomedical Sciences from the University of South Florida and her Doctor of Dental Surgery from VCU School of Dentistry. She completed her orthodontic certificate at the University of Texas Health Science Center at Houston."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Professional affiliations",
+            "alt": "Dr. Payton Cook professional portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -812,13 +1229,13 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "A Buffalo native, Dr. Alexander lives locally with her husband and children. She enjoys outdoor activities, travel, and cheering for local sports teams."
+              "text": "Outside of work Dr. Cook enjoys family time, fitness, and running Richmond trails. She brings the same energy and attention to detail to patient care that she applies in her active personal life."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Dr. Alexander with family",
+            "alt": "Dr. Payton Cook casual portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -831,7 +1248,613 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-alexander",
+        "hash": "meet-dr-payton-cook",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Sarah Yi",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Sarah Yi headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Sarah Yi, DDS is a pediatric dentist who focuses on creating positive, child-friendly dental experiences. She builds rapport with children and families to make visits relaxed and educational."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Sarah Yi smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Yi completed a B.S. in Biology at Virginia Commonwealth University and earned her Doctor of Dental Surgery from VCU School of Dentistry. She completed her pediatric residency at Children’s Hospital Colorado."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Sarah Yi professional portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Dr. Yi enjoys pottery, home decorating, and spending time with her husband and their two rescue pups. She finds great reward in connecting with children and helping them leave the office smiling."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Sarah Yi casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-sarah-yi",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Kevin Bibona",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Kevin Bibona headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Kevin Bibona, DDS is an orthodontist who enjoys guiding patients through their treatment journeys and seeing the confidence a finished smile brings. He combines clinical expertise with a friendly approach."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Kevin Bibona smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Bibona completed undergraduate studies at Washington and Lee University and earned his DDS and orthodontic certificate from VCU School of Dentistry."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Kevin Bibona portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "When not working Dr. Bibona enjoys family life and coaching his children’s soccer teams. He values being part of the Richmond community and helping patients feel confident about their smiles."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Kevin Bibona casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-kevin-bibona",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Bill Dahlke",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Bill Dahlke headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Bill Dahlke, DMD is a pediatric dentist with nearly 20 years of experience. He focuses on making dental visits comfortable and enjoyable for children, building trusting relationships with families."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Bill Dahlke smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Dahlke studied biochemistry at the University of Nevada–Reno and received his Doctor of Dental Medicine (DMD) and pediatric dentistry training from UNLV School of Dental Medicine."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Bill Dahlke portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Outside the office Dr. Dahlke enjoys cooking, baking bread, working on cars, and spending time with his family. He brings warmth and humor to patient care."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Bill Dahlke casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-bill-dahlke",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Jasmine Chopra",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Jasmine Chopra headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Jasmine Chopra, DDS is a Richmond-native pediatric dentist who emphasizes teaching healthy habits and making dental visits enjoyable for kids. She focuses on building trust with both children and parents."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Jasmine Chopra smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Chopra completed undergraduate studies at Virginia Commonwealth University, earned her DDS from the University of Minnesota School of Dentistry, and completed her certificate in Pediatric Dentistry at NYU Langone."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Jasmine Chopra portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Dr. Chopra enjoys exploring Richmond, trying new foods, and spending time with family and friends. She is also learning French and values cultural awareness in care."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Jasmine Chopra casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-jasmine-chopra",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Raymonia Eddleton",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2024/10/EDDLEMAN-Dressed-up-headshot-RPDO.jpg",
+        "webp": "",
+        "alt": "Dr. Raymonia Eddleton headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Raymonia Eddleton, DDS is a Richmond native and experienced pediatric dentist who takes pride in serving local families. She brings nearly 30 years of experience and a warm, patient-focused approach to care."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/EDDLEMAN-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Raymonia Eddleton smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Eddleton completed undergraduate studies at Virginia Tech, earned her DDS from the University of Tennessee, and completed pediatric dentistry training at Cincinnati Children’s Hospital Medical Center."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/EDDLEMAN-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Raymonia Eddleton portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Dr. Eddleton enjoys family time, exercise, and running with her Labradoodle. She loves the funny stories children share and the daily joy of working with young patients."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/EDDLEMAN-Dressed-up-headshot-RPDO.jpg",
+            "webp": "",
+            "alt": "Dr. Raymonia Eddleton casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-raymonia-eddleton",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Rachel Thornton",
+      "paragraphs": [],
+      "image": {
+        "src": "https://rpdo.com/wp-content/uploads/2025/06/RPDO-rachel-thorton.jpg",
+        "webp": "",
+        "alt": "Dr. Rachel Thornton headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Rachel Thornton, DDS is a board-eligible pediatric dentist who is passionate about building positive, lasting relationships with families and helping children feel comfortable during visits."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2025/06/RPDO-rachel-thorton.jpg",
+            "webp": "",
+            "alt": "Dr. Rachel Thornton smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Thornton earned a B.A. from Washington University in St. Louis and her DDS from Marquette University School of Dentistry. She completed pediatric dental training at Yale New Haven Hospital, serving as Chief Resident."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2025/06/RPDO-rachel-thorton.jpg",
+            "webp": "",
+            "alt": "Dr. Rachel Thornton professional portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Originally from Madison, Dr. Thornton enjoys the beach, playing frisbee with her golden retriever, Louie, making playlists, and exploring interior design and fashion in her free time."
+            }
+          ],
+          "image": {
+            "src": "https://rpdo.com/wp-content/uploads/2025/06/RPDO-rachel-thorton.jpg",
+            "webp": "",
+            "alt": "Dr. Rachel Thornton casual portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-rachel-thornton",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -852,13 +1875,13 @@
       "title": "Meet the Team",
       "items": [
         {
-          "name": "Jeanette",
-          "position": "Practice Administrator & Financial Coordinator",
-          "bio": "Practice Administrator and financial coordinator supporting patient care and billing.",
+          "name": "Dr. Jayakumar Jayaraman",
+          "position": "Pediatric Dentist",
+          "bio": "Experienced pediatric dentist with advanced training and a gentle, child-focused approach.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Jeanette.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2025/02/rpdo-dr-Jayaraman-new-background.jpg",
             "webp": "",
-            "alt": "Jeanette, Practice Administrator",
+            "alt": "Dr. Jayakumar Jayaraman",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -870,13 +1893,13 @@
           }
         },
         {
-          "name": "Stephanie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator who greets patients and manages scheduling.",
+          "name": "Dr. Payton Cook",
+          "position": "Orthodontist",
+          "bio": "Orthodontist providing comprehensive care for children, teens, and adults with a gentle, patient-first style.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/COOK-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Stephanie, Front Desk Coordinator",
+            "alt": "Dr. Payton Cook",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -888,13 +1911,13 @@
           }
         },
         {
-          "name": "Kathie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator assisting patients and phone inquiries.",
+          "name": "Dr. Sarah Yi",
+          "position": "Pediatric Dentist",
+          "bio": "Compassionate pediatric dentist focused on positive visits and patient education.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kathie.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/YI-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Kathie, Front Desk Coordinator",
+            "alt": "Dr. Sarah Yi",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -906,13 +1929,13 @@
           }
         },
         {
-          "name": "Kristen",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator who helps patients understand options and financial arrangements.",
+          "name": "Dr. Kevin Bibona",
+          "position": "Orthodontist",
+          "bio": "Orthodontist who enjoys helping patients gain confidence through smile transformations.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/BIBONA-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Kristen, Treatment Coordinator",
+            "alt": "Dr. Kevin Bibona",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -924,13 +1947,13 @@
           }
         },
         {
-          "name": "Heather",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator and dental assistant supporting patient care.",
+          "name": "Dr. Bill Dahlke",
+          "position": "Pediatric Dentist",
+          "bio": "Nearly 20 years' experience making pediatric visits comfortable, with a friendly, family-focused style.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/drdahlke-Dressed-up-headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Heather, Clinical Coordinator",
+            "alt": "Dr. Bill Dahlke",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -942,139 +1965,13 @@
           }
         },
         {
-          "name": "Torrie",
-          "position": "Dental Hygienist / Assistant",
-          "bio": "Dental hygienist and assistant providing clinical support.",
+          "name": "Dr. Jasmine Chopra",
+          "position": "Pediatric Dentist",
+          "bio": "Richmond-native pediatric dentist focused on teaching healthy habits and building trust with families.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Torrie.jpg",
+            "src": "https://rpdo.com/wp-content/uploads/2024/10/CHOPRA-Dressed-Up-Headshot-RPDO.jpg",
             "webp": "",
-            "alt": "Torrie, Dental Hygienist",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Alissa",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who works chairside to support treatments.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-088.jpg",
-            "webp": "",
-            "alt": "Alissa, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rachel",
-          "position": "Financial Coordinator & Assistant Practice Administrator",
-          "bio": "Financial coordinator assisting with insurance and billing in Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-38.jpg",
-            "webp": "",
-            "alt": "Rachel, Financial Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Tammy",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator supporting patient care at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-44.jpg",
-            "webp": "",
-            "alt": "Tammy, Treatment Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Courtney",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator welcoming patients at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-18.jpg",
-            "webp": "",
-            "alt": "Courtney, Front Desk Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rose",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator providing chairside assistance and patient support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Rose%20V.jpg",
-            "webp": "",
-            "alt": "Rose, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Kim",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant supporting clinical procedures.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kim.jpg",
-            "webp": "",
-            "alt": "Kim, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Paige",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who assists with patient care and treatment setup.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-10.jpg",
-            "webp": "",
-            "alt": "Paige, Dental Assistant",
+            "alt": "Dr. Jasmine Chopra",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1095,20 +1992,20 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
-      "title": "Office Tour",
+      "title": "Our Office",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
+          "src": "https://rpdo.com/wp-content/uploads/2024/11/rpdo-mechanicsville-waiting-room.jpg",
           "webp": "",
-          "alt": "Clarence office - waiting area",
+          "alt": "Mechanicsville waiting room",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1118,9 +2015,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
+          "src": "https://rpdo.com/wp-content/uploads/2024/11/Richmond-Pediatric-Dentistry-and-Orthodontics-office-lobby-Photo.jpg",
           "webp": "",
-          "alt": "Clarence office - treatment room",
+          "alt": "Office lobby photo",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1130,9 +2027,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
+          "src": "https://rpdo.com/wp-content/uploads/2024/11/Richmond-Pediatric-Dentistry-and-Orthodontics-midlothian-location-e1731076335613.jpg",
           "webp": "",
-          "alt": "Clarence office - operatory",
+          "alt": "Midlothian office interior",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1142,117 +2039,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-177(1).jpg",
+          "src": "https://rpdo.com/wp-content/uploads/2024/11/Richmond-Pediatric-Dentistry-and-Orthodontics-short-pump-location.jpg",
           "webp": "",
-          "alt": "Clarence office - reception",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-167(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - patient area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-174(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - equipment and sterilization area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-374.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-377(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - treatment room",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-093(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - staff area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-090.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - clinical space",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-115.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting and play area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-085(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - reception and staff",
+          "alt": "Short Pump office image",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1281,19 +2070,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Edwin Tyska is active in the local community as an assistant coach for the Lou Gehrig Lasers travel girls’ softball league and supports youth sports through local involvement."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Dr. Kristen Alexander participates in local activities and professional organizations; both doctors support community health through patient education and outreach."
+          "text": "Richmond Pediatric Dentistry & Orthodontics partners with local nonprofits through the Smiles for Change program and supports organizations such as CelebrateRVA, Feed More, the Breast Cancer Research Foundation and area schools. We believe in giving back and inviting patients to participate in community-focused initiatives."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
-        "alt": "Graphic representing community support and local involvement",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.webp",
+        "alt": "Doctors group photo representing community involvement",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1359,14 +2143,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.webp",
+        "alt": "Happy family after a dental visit at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -1380,15 +2164,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Tyska & Alexander Orthodontics",
-        "page_description": "Learn about Dr. Edwin Tyska and Dr. Kristen Alexander, our team, and how we serve Clarence and Tonawanda with patient-focused orthodontic care.",
-        "page_keywords": "Orthodontics, Braces, Invisalign, Dr. Tyska, Dr. Alexander, TaOrtho",
+        "page_title": "About Us | Richmond Pediatric Dentistry & Orthodontics",
+        "page_description": "Learn about Richmond Pediatric Dentistry & Orthodontics: our mission, doctors, team, and community programs serving families across Richmond, VA.",
+        "page_keywords": "Richmond Pediatric Dentistry, Pediatric Dentist, Orthodontist, Richmond VA, Smiles for Change, RPDO",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Tyska & Alexander Orthodontics",
-            "description": "Meet our doctors and team serving Clarence and Tonawanda with modern, compassionate orthodontic care.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "About Us | Richmond Pediatric Dentistry & Orthodontics",
+            "description": "Meet our pediatric dentists and orthodontists and learn about our mission and community programs serving Richmond families.",
+            "image": "https://rpdo.com/wp-content/uploads/2025/01/rpdo-team-photo-edited.jpg"
           }
         }
       }
@@ -1410,13 +2194,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.webp",
-        "alt": "Smiling family welcomed at Tyska Alexander Orthodontics front desk",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
+        "alt": "Family smiling in a bright dental reception",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1424,9 +2208,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -1437,24 +2219,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "First Visit Expectations",
+      "title": "What to expect",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your initial consultation is where we learn about your concerns and evaluate your smile. You’ll meet our team and the doctor, we’ll review your dental and medical history, and perform a thorough oral exam to determine whether orthodontic treatment is recommended and which options may be right for you."
+          "text": "Your first visit at Richmond Pediatric Dentistry & Orthodontics is a friendly introduction: meet our team, get a complete oral exam with any needed X-rays, and talk through which care options fit your child."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "We’ll help you build a customized treatment plan and walk through financial options, insurance details, and payment plans. Please bring completed patient forms or plan to fill them out electronically, a photo ID, any insurance cards, and a list of current medications."
+          "text": "We’ll review medical history, create a customized treatment plan, and explain insurance and payment options so you leave with a clear next step."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.webp",
-        "alt": "Father with daughter at reception of dentist's surgery",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/416491612_Dentist_examines_little_patient_Happy_smiling_kid.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/416491612_Dentist_examines_little_patient_Happy_smiling_kid.webp",
+        "alt": "Parent and child at a dental reception desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1462,9 +2244,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1484,7 +2264,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": true,
@@ -1493,13 +2273,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Financial Info",
+      "title": "Financing & Insurance",
       "paragraphs": [
         {
-          "text": "We accept most major credit cards and can assist with insurance claims when orthodontic benefits apply, helping to reduce paperwork for you."
+          "text": "We accept many major insurance plans and will file claims electronically to make your visit easier."
         },
         {
-          "text": "Flexible financing and in-house payment plans are available to fit different budgets. Complimentary consultations are offered so you can meet our team, have photos taken, and review your treatment plan."
+          "text": "Flexible payment options are available. Our treatment coordinators will review costs and help find a plan that works for your family."
         }
       ],
       "component_options": {
@@ -1514,103 +2294,6 @@
       "add_texture": false,
       "background": "bg2",
       "linear_gradient": ""
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "New Patient Forms",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Complete forms online through our patient portal, or download and print the appropriate health history PDFs before your visit. If you have trouble opening PDFs, Adobe Reader is available for free."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-        "alt": "Patient filling out orthodontic health history forms online",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Online Patient Portal",
-            "aria_label": "online patient portal",
-            "href": "https://patient.sesamecommunications.com/mandtortho/index.html",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "envelope",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Child) PDF",
-            "aria_label": "patient form child pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Adult) PDF",
-            "aria_label": "patient form adult pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": true,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg2",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
     },
     {
       "acf_fc_layout": "multi_use_banner",
@@ -1643,14 +2326,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/168508651_Mother_and_Child_in_Pediatric_Office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/168508651_Mother_and_Child_in_Pediatric_Office.webp",
+        "alt": "Happy family after a dental visit at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -1664,14 +2347,14 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | TA Orthodontics",
-        "page_description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-        "page_keywords": "orthodontics, new patient, patient forms, financing, consultation, TA Orthodontics",
+        "page_title": "Get Started | Richmond Pediatric Dentistry & Orthodontics",
+        "page_description": "Start dental and orthodontic care at Richmond Pediatric Dentistry & Orthodontics. Learn what to expect, access forms, check insurance, and request anappointment",
+        "page_keywords": "pediatric dentistry, orthodontics, first visit, appointments, Richmond VA",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | TA Orthodontics",
-            "description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
+            "title": "Get Started | Richmond Pediatric Dentistry & Orthodontics",
+            "description": "Start dental and orthodontic care at Richmond Pediatric Dentistry & Orthodontics. Learn what to expect, access forms, check insurance, and request anappointment",
             "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
           }
         }
@@ -1693,14 +2376,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Orthodontic treatment overview with smiling patients in a bright clinic",
+        "alt": "Smiling patients of all ages",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1708,9 +2391,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -1721,68 +2402,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early/interceptive treatment for children",
+      "title": "Pediatric Dentistry Overview",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early treatment, often called Phase One, typically begins around age eight to nine with follow-up Phase Two around age 11 and up. The goal is to guide jaw growth, correct bite issues early, and make room for permanent teeth so later treatment can be simpler and shorter."
+          "text": "Your child’s first dental visit should be early: the American Academy of Pediatric Dentistry recommends a checkup by age one or when the first tooth erupts. This early visit helps establish a dental home, build comfort with the dentist and introduce healthy habits. Our pediatric dentists are specially trained to care for children; they are compassionate, skilled and enjoy working with kids every day. A typical first visit may include an exam, a cleaning when appropriate, and guidance for at-home care."
         }
       ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "The American Association of Orthodontists recommends an evaluation by age seven. We look for signs that early care could help, including crowding, crossbites, or a pronounced underbite."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Young patient receiving early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid"
-            }
-          }
-        },
-        {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Early care can guide jaw growth, address crossbites, severe crowding, protruding teeth and space issues, and reduce problems caused by prolonged thumb sucking."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.webp",
-            "alt": "Orthodontist consulting with a child and parent about early treatment",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          }
-        },
-        {
-          "header": "Benefits",
-          "paragraphs": [
-            {
-              "text": "Starting early can reduce the need for extractions or jaw surgery later, create space for permanent teeth, shorten future treatment time, and improve function like chewing and speech sooner."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-            "alt": "Smiling child after early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid friendly"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
-        "alt": "Child receiving orthodontic evaluation in a modern clinic",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/318853771_The_dentist_tells_the_child_about_oral_hygiene_and.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/318853771_The_dentist_tells_the_child_about_oral_hygiene_and.webp",
+        "alt": "Smiling family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1790,9 +2422,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1800,14 +2430,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "early-interceptive-treatment",
+        "hash": "pediatric-dentistry",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1821,52 +2451,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Adult orthodontic options — It’s never too late",
+      "title": "Restorative Dentistry",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Many adults are excellent candidates for orthodontic care. Modern techniques offer discreet options that fit adult lifestyles while improving function, hygiene, and smile appearance."
+          "text": "At Richmond Pediatric Dentistry & Orthodontics, our restorative dentistry services help children keep strong, healthy smiles. From composite fillings and stainless steel crowns to pulpal therapy and space maintainers, we restore function and appearance with gentle, effective care tailored for young patients."
         }
       ],
-      "accordion": [
-        {
-          "header": "Discreet options",
-          "paragraphs": [
-            {
-              "text": "We offer clear aligners like Invisalign<sup>®</sup>, ceramic (clear) braces, and lower-profile metal braces with smaller brackets. For minor tooth movement, retainers can sometimes correct small concerns."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-            "alt": "Adult patient smiling after orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        },
-        {
-          "header": "Expectations and coordination",
-          "paragraphs": [
-            {
-              "text": "Adult treatment times vary and may require coordination with periodontal care, restorative work, or, rarely, surgery. We plan treatments to minimize disruption and protect oral health."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.webp",
-            "alt": "Orthodontist reviewing adult treatment options with patient",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-        "alt": "Adult patient consulting about orthodontic options",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.webp",
+        "alt": "Modern dental office interior",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1874,9 +2471,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1884,14 +2479,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "adult-orthodontic-options",
+        "hash": "restorative-dentistry",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1905,46 +2500,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Traditional (metal) and ceramic braces",
-      "paragraphs": [],
-      "accordion": [
+      "title": "Pediatric Dental Sedation",
+      "paragraphs": [
         {
-          "header": "Traditional Metal Braces",
-          "paragraphs": [
-            {
-              "text": "Metal brackets bonded to the teeth use archwires to apply gentle, continuous force and move teeth into place. They are durable and effective for a wide range of problems."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-            "alt": "Patient with traditional metal braces",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "Pediatric dental sedation helps anxious or very young patients receive necessary care in a safe, controlled way. Options include nitrous oxide (laughing gas), oral sedatives and, when appropriate, in-office general anesthesia. Our team evaluates each child carefully, obtains parental consent, and monitors vital signs throughout treatment to ensure safety and comfort."
         },
         {
-          "header": "Ceramic Braces",
-          "paragraphs": [
-            {
-              "text": "Ceramic brackets blend with tooth color for a less noticeable option while providing effective tooth movement. They may require extra attention to hygiene and care."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Close-up of ceramic braces on teeth",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "We explain preliminary evaluation steps, required consent, monitoring protocols and post-care instructions so parents know what to expect and how to support recovery."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Two smiling teens showing braces",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/379735_happy_girl_outdoors.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/379735_happy_girl_outdoors.webp",
+        "alt": "Dental technology in treatment room",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1952,9 +2525,85 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "pediatric-dental-sedation",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Traditional Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Traditional metal braces remain a reliable option for a wide range of orthodontic needs. Brackets and archwires apply steady, controlled force to move teeth into healthier, more functional positions. They are durable, cost-effective and a strong choice for patients who prefer a fixed treatment."
         }
+      ],
+      "accordion": [
+        {
+          "header": "Traditional Metal Braces",
+          "paragraphs": [
+            {
+              "text": "Durable and cost-effective, metal braces use small brackets and wires to gradually move teeth into place."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
+            "alt": "Dental checkup with braces",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Ceramic Braces",
+          "paragraphs": [
+            {
+              "text": "Ceramic braces blend with tooth color for a less noticeable option while still delivering effective results."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.webp",
+            "alt": "Patient smiling with discreet ceramic braces",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
+        "alt": "Two stylish smiling teens taking a selfie with braces",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1967,7 +2616,7 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": false,
+      "reverse": true,
       "has_buttons": false,
       "has_accordion": true,
       "is_dynamic": false,
@@ -1983,24 +2632,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> clear aligners",
+      "title": "Spark Clear Aligners",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Invisalign<sup>®</sup> uses advanced 3D imaging and a series of custom clear aligners to move teeth incrementally. Aligners are removable for eating and hygiene, and treatment is planned and previewed digitally."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Candidates include people with crowding, spacing, and many bite issues. Appointments are often less frequent and the aligners use SmartTrack material and SmartForce features to maintain precise control of movement."
+          "text": "Spark Clear Aligners are an advanced clear-aligner option that use TruGEN™ material to provide a more comfortable, clear and stain-resistant solution. Clear aligners allow you to brush and eat without bracket restrictions while treating a wide variety of orthodontic problems."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.webp",
-        "alt": "Close-up of clear Invisalign aligner on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.webp",
+        "alt": "Close-up of clear aligners being placed on teeth",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2008,9 +2652,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Teen"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2018,7 +2660,56 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "invisalign",
+        "hash": "clear-aligners",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Early Orthodontic Treatment",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Early orthodontic evaluation helps our team identify developing problems and plan conservative treatments that can shorten or simplify care later. Treating issues while a child’s bones are still growing often leads to gentler, faster results and can prevent more complex procedures in the future."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
+        "alt": "Young patient receiving early orthodontic intervention",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "early-orthodontic-treatment",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -2039,24 +2730,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Surgical orthodontics (jaw surgery)",
+      "title": "Tongue and Lip Ties",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Orthognathic surgery may be recommended for significant jaw discrepancies where tooth movement alone cannot achieve a stable, functional bite. Adults with skeletal malocclusions sometimes need combined surgical and orthodontic care."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "The process includes comprehensive evaluation and imaging, pre-surgical orthodontics to align the teeth, coordinated surgery with an oral and maxillofacial surgeon, and post-surgical orthodontics to finalize the bite."
+          "text": "If a tongue-tie or lip tie affects feeding, speech or oral development, our team can evaluate and treat the issue. We perform lingual or labial frenectomies using a CO2 laser when appropriate; the procedure is quick, causes minimal bleeding and typically allows fast recovery so children can feed and use their tongue more freely."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
-        "alt": "Orthodontic team reviewing surgical planning images",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/658353783_The_examination_of_newborn_baby_mouth_frenulum_of.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/658353783_The_examination_of_newborn_baby_mouth_frenulum_of.webp",
+        "alt": "Orthodontic consultation",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2064,9 +2750,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Surgery"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2074,68 +2758,12 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "orthognathic-surgery",
+        "hash": "tongue-lip-ties",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Retainers and maintaining results",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "After active treatment, retainers preserve alignment. We provide removable Essix-style retainers, traditional acrylic-and-wire retainers, and fixed bonded retainers depending on your needs."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Wear schedules vary by case: often full-time initially, then nightly. Good oral hygiene, regular dental cleanings, and following retainer instructions are essential to protect your investment."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
-        "alt": "Patient holding a clear retainer",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Restorative Treatments"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "retainers",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -2151,68 +2779,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Advanced technology — 3D scanning and imaging",
+      "title": "Pulpal Therapy",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use digital tools like iTero scanners, 3D treatment planning, and digital X-rays to improve precision and comfort. Digital scans replace messy impressions and help visualize your treatment outcome."
+          "text": "Pulpal therapy preserves a badly decayed baby tooth by treating the damaged nerve tissue. Depending on the situation, a pulpotomy or pulpectomy may be performed to remove infected pulp and maintain the tooth until its natural replacement. This helps retain proper chewing function and space for the permanent tooth."
         }
       ],
-      "accordion": [
-        {
-          "header": "iTero digital scanning",
-          "paragraphs": [
-            {
-              "text": "Fast, radiation-free scans capture accurate 3D images for aligners and treatment planning."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-            "alt": "Digital intraoral scanner in use",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "3D treatment planning",
-          "paragraphs": [
-            {
-              "text": "Advanced software simulates each stage of tooth movement so you can preview results before treatment begins."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-            "alt": "3D orthodontic treatment planning on a computer screen",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
-          }
-        },
-        {
-          "header": "Digital X-rays",
-          "paragraphs": [
-            {
-              "text": "High-resolution digital radiography and 3D imaging support accurate diagnosis while minimizing radiation exposure."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.webp",
-            "alt": "Digital X-ray equipment used in orthodontic diagnosis",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
-        "alt": "Modern orthodontic technology and equipment in a treatment room",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/96012689_happy_male_dentist_at_dental_clinic_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/96012689_happy_male_dentist_at_dental_clinic_office.webp",
+        "alt": "Patient holding orthodontic retainer",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2220,9 +2799,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Advanced Technology"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2230,14 +2807,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "advanced-technology",
+        "hash": "pulpal-therapy",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": false,
+      "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -2280,14 +2857,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
+        "alt": "Happy family after a dental visit at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -2301,15 +2878,15 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | TA Orthodontics",
-        "page_description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-        "page_keywords": "orthodontics, braces, Invisalign, early treatment, retainers, orthognathic surgery, iTero, clear aligners",
+        "page_title": "Treatments | Richmond Pediatric Dentistry & Orthodontics",
+        "page_description": "Comprehensive pediatric and orthodontic care in Richmond, VA. Braces, clear aligners, sedation, restorative dentistry, and early orthodontic options.",
+        "page_keywords": "pediatric dentistry, pediatric orthodontics, braces, clear aligners, sedation, restorative dentistry, Richmond VA",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | TA Orthodontics",
-            "description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-            "image": "https://www.taortho.com/assets/images/treatment-01.jpg"
+            "title": "Treatments | Richmond Pediatric Dentistry & Orthodontics",
+            "description": "Comprehensive pediatric and orthodontic care in Richmond, VA. Braces, clear aligners, sedation, restorative dentistry, and early orthodontic options.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/holt-orthodontics-faq-hero.jpg"
           }
         }
       }
@@ -2335,9 +2912,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Tyska Alexander Orthodontics Clarence office exterior and reception area",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Exterior view of Richmond Pediatric Dentistry and Orthodontics locations, modern bright offices welcoming families for pediatric dentistry and orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2358,7 +2935,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Our Location",
+      "title": "How to Reach Us",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -2384,15 +2961,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-        "page_description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-        "page_keywords": "Tyska Alexander Orthodontics contact, Clarence orthodontist, Tonawanda orthodontist, appointment, patient forms",
+        "page_title": "Contact Richmond Pediatric Dentistry & Orthodontics | Request an Appointment",
+        "page_description": "Contact Richmond Pediatric Dentistry & Orthodontics to request appointments, virtual consults, referrals, and download new patient paperwork for five Richmond‑A",
+        "page_keywords": "Richmond Pediatric Dentistry contact, Richmond orthodontics contact, request appointment, virtual consult, refer a patient, new patient forms",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-            "description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-            "image": "https://www.taortho.com/assets/uploads/images/clarence-office.jpg"
+            "title": "Contact Richmond Pediatric Dentistry & Orthodontics | Request an Appointment",
+            "description": "Contact Richmond Pediatric Dentistry & Orthodontics to request appointments, virtual consults, referrals, and download new patient paperwork for five Richmond‑A",
+            "image": "https://rpdo.com/wp-content/uploads/2024/11/Richmond-Pediatric-Dentistry-and-Orthodontics-our-locations.jpg"
           }
         }
       }
@@ -2413,14 +2990,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Patient speaking with front desk about appointments in a bright orthodontic office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/123911299_Male_hiker_holding_a_map_in_forest.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/123911299_Male_hiker_holding_a_map_in_forest.webp",
+        "alt": "Orthodontic emergency treatment in office at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2441,28 +3018,28 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "FAQ",
+      "title": "Frequently Asked Questions For Orthodontic Emergencies",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find answers to common questions about orthodontic treatments, Invisalign<sup>®</sup>, appointment scheduling, patient forms, and payment options at Tyska Alexander Orthodontics."
+          "text": "Properly handling an orthodontic emergency can be critical to maintaining your treatment progress and protecting your oral health. When unexpected issues arise, handling it effectively can make all the difference. We’ve compiled some of the most common orthodontic issues we see and their solutions below."
         }
       ],
       "accordion": [
         {
-          "header": "What treatment options do you offer?",
+          "header": "What should I do if a bracket or band becomes loose?",
           "paragraphs": [
             {
-              "text": "We offer a full range of orthodontic options including traditional metal braces, ceramic (clear) braces, Invisalign<sup>®</sup> clear aligners, retainers for minor movement, palatal expanders and other appliances. Your doctor will review options and recommend the best approach for your needs."
+              "text": "If a bracket or band comes loose but is still attached to the wire, try to leave it in place and apply orthodontic wax to reduce irritation. If it comes completely off, save the piece and bring it with you to your next appointment. Call (804) 740-7281 so the office can determine if it needs to be fixed sooner."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
-            "alt": "Orthodontic consultation and treatment planning in a modern office",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/382988173_Portrait_of_Asian_teen_beautiful_young_woman_smile.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/382988173_Portrait_of_Asian_teen_beautiful_young_woman_smile.webp",
+            "alt": "Happy family portrait related to orthodontic care",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2471,7 +3048,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
@@ -2480,10 +3057,97 @@
           }
         },
         {
-          "header": "How does Invisalign work and how long does it take?",
+          "header": "How can I fix a wire that's poking or irritating my mouth?",
           "paragraphs": [
             {
-              "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligner trays made from SmartTrack material. A custom digital plan maps tooth movement; aligners are usually worn about 20–22 hours per day and checkups are typically every six weeks. Treatment length varies by case."
+              "text": "Use a cotton swab or an eraser on a pencil to gently nudge the wire back into a more comfortable position. If that doesn’t work, place a small piece of orthodontic wax over the end of the wire to prevent it from poking. If it is still uncomfortable, call (804) 740-7281 or let the team know at your next appointment."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
+            "alt": "Patient receiving guidance during orthodontic appointment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What do I do if a rubber band or color tie falls off?",
+          "paragraphs": [
+            {
+              "text": "If you notice a missing ligature (the small rubber band or wire that holds the bracket wire in place), call the office to see if it needs to be replaced. These ties help apply the correct pressure to your teeth, so the practice may recommend fixing it sooner rather than later."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/333010491_Dental_radiography_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/333010491_Dental_radiography_with_braces.webp",
+            "alt": "Orthodontic team collaborating to provide care",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Is it normal to feel soreness after getting braces or having them adjusted? What can I do for relief?",
+          "paragraphs": [
+            {
+              "text": "This is completely normal. You may feel some discomfort for a few days after getting your braces on or following an adjustment. Rinsing with warm salt water, eating soft foods, and using over-the-counter pain relievers as necessary can help manage it."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/515451862_Womans_face_before_and_after_correction_of_maloccl.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/515451862_Womans_face_before_and_after_correction_of_maloccl.webp",
+            "alt": "Patient comfort and relief after orthodontic adjustment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "FAQ Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What can I do about mouth sores caused by braces?",
+          "paragraphs": [
+            {
+              "text": "Braces can irritate the inside of your cheeks or lips, especially early on in your treatment journey. Use orthodontic wax over any brackets causing discomfort and rinse with warm salt water to promote healing. If the sores don’t go away or worsen, contact the office at https://rpdo.com/contact-us/."
             }
           ],
           "has_media": false,
@@ -2491,7 +3155,7 @@
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Clear aligners on a model showing staged tooth movement",
+            "alt": "Patient smiling after resolving mouth discomfort",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2500,7 +3164,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
@@ -2509,18 +3173,18 @@
           }
         },
         {
-          "header": "How long will orthodontic treatment take?",
+          "header": "Help! I think I swallowed part of my appliance.",
           "paragraphs": [
             {
-              "text": "Treatment times vary by age, method and case severity. Typical ranges are about 1–3 years; early (interceptive) treatment for children can shorten overall time. Your doctor will estimate your treatment length during the consultation."
+              "text": "While rare, this can happen. First, don’t panic. Call the office at (804) 740-7281 to request an appointment as soon as possible. Seek immediate medical assistance if you experience any trouble breathing."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.webp",
-            "alt": "Orthodontic treatment timeline explanation during a consultation",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/213117997_Young_girl_with_lollipop_on_blue_background.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/213117997_Young_girl_with_lollipop_on_blue_background.webp",
+            "alt": "Orthodontic team ready to assist with appliance concerns",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2529,7 +3193,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
@@ -2538,18 +3202,18 @@
           }
         },
         {
-          "header": "Do you offer surgical orthodontics if needed?",
+          "header": "My retainer broke. Should I replace it?",
           "paragraphs": [
             {
-              "text": "For adults with severe jaw discrepancies we coordinate orthognathic (jaw) surgery with an oral/maxillofacial surgeon. Braces are used before and after surgery to finalize the bite; we will discuss risks, recovery time and expected steps if surgery is recommended."
+              "text": "Retention is an important phase of orthodontic treatment that protects your new smile. If your retainer breaks, the practice recommends getting a new one as soon as possible."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Orthodontist reviewing surgical treatment coordination with a patient",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/361207103_Invisible_transparent_aligners_invisalign_blue_pac.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/361207103_Invisible_transparent_aligners_invisalign_blue_pac.webp",
+            "alt": "Replacement retainer prepared by orthodontic team",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2558,7 +3222,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "All Ages"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
@@ -2567,18 +3231,18 @@
           }
         },
         {
-          "header": "What do I need to know about visiting the dentist while in orthodontic care?",
+          "header": "When should I seek immediate care?",
           "paragraphs": [
             {
-              "text": "Continue visiting your family dentist every six months for cleanings and routine care while in orthodontic treatment. If extra dental work is needed, our offices will coordinate timing and care with your family dentist."
+              "text": "If you’ve experienced an orthodontic emergency involving trauma to the face, jaw or mouth (for example, a sports injury or fall), contact the office right away at (804) 740-7281. Even if appliances appear intact, the orthodontist may perform a thorough examination to rule out damage. Patients with jaw injury or heavy bleeding should go to the emergency room immediately."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.webp",
-            "alt": "Orthodontic team coordinating care with a family dentist",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/607114376_Close_up_teeth_man_Before_and_after_treatment_teet.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/607114376_Close_up_teeth_man_Before_and_after_treatment_teet.webp",
+            "alt": "Orthodontic emergency evaluation in clinical setting",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2587,181 +3251,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How often will I have appointments during treatment?",
-          "paragraphs": [
-            {
-              "text": "Routine orthodontic follow-ups are usually scheduled about every 4–8 weeks, depending on the appliance and stage of treatment."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Patient returning for a routine orthodontic adjustment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What are the basic care instructions (brushing, flossing, appliance care)?",
-          "paragraphs": [
-            {
-              "text": "Brush and floss carefully after meals. For braces use floss threaders or orthodontic floss; consider a water flosser if needed. For loose wires or irritation use orthodontic wax or rinse with warm salt water and contact the office for advice. For aligners, wear them 20–22 hours/day and remove only for eating and oral hygiene."
-            }
-          ],
-          "has_media": true,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
-            "alt": "Brushing and flossing with braces",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Gentle"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What happens after my initial consultation?",
-          "paragraphs": [
-            {
-              "text": "After your consultation we’ll schedule your first appliance placement visit. The placement appointment typically takes about an hour. The doctor and team will be available to ensure your comfort."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.webp",
-            "alt": "Orthodontic team preparing a patient for appliance placement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What payment and insurance options do you accept?",
-          "paragraphs": [
-            {
-              "text": "Treatment cost depends on your individualized plan. The practice accepts most major credit cards and many insurance plans, and offers in‑house financing and low monthly payment plans. Office staff will help with insurance claims and paperwork."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.webp",
-            "alt": "Front desk staff helping a patient with insurance and payment options",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Flexible Payments"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How can I schedule an appointment?",
-          "paragraphs": [
-            {
-              "text": "You can call either office or request an appointment online. Phone (Clarence office): (716) 759-8323. Phone (Tonawanda office): (716) 875-0405. Appointment request (online form): https://www.taortho.com/appointment-request."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
-            "alt": "Patient calling to schedule an orthodontic appointment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Contact Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Where can I fill out new‑patient forms?",
-          "paragraphs": [
-            {
-              "text": "Patients can fill forms electronically here: https://patient.sesamecommunications.com/mandtortho/index.html. Printable PDFs (child and adult health history) are also available:\nChild Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf\nAdult Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf"
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
-            "alt": "Patient completing new patient forms on a tablet",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
+              "context_category": "FAQ Hero"
             }
           },
           "video": {
@@ -2808,14 +3298,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.webp",
+        "alt": "Happy family after a dental visit at Richmond Pediatric Dentistry & Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -2829,15 +3319,15 @@
     },
     {
       "seo": {
-        "page_title": "FAQ | Tyska Alexander Orthodontics",
-        "page_description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, Clarence, Tonawanda, patient forms",
+        "page_title": "Orthodontic Emergency FAQs | Richmond Pediatric Dentistry & Orthodontics",
+        "page_description": "Answers to common orthodontic emergency questions from Richmond Pediatric Dentistry & Orthodontics. Call our orthodontics team at (804) 740-7281 for urgent help",
+        "page_keywords": "orthodontic emergency, braces emergency, retainers, orthodontics, Richmond Pediatric Dentistry & Orthodontics, RPDO, emergency care",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "FAQ | Tyska Alexander Orthodontics",
-            "description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-            "image": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg"
+            "title": "Orthodontic Emergency FAQs | Richmond Pediatric Dentistry & Orthodontics",
+            "description": "Find practical tips and when to seek immediate care for orthodontic emergencies. Contact our orthodontics team at (804) 740-7281.",
+            "image": "https://rpdo.com/wp-content/uploads/2025/06/Orthodontic-Emergency-In-Office.jpg"
           }
         }
       }

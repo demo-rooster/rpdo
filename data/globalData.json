@@ -1,77 +1,174 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Richmond Pediatric Dentistry & Orthodontics",
+  "domain": "rpdo.com",
+  "email": "virtualconsult@rpdo.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(804) 741-2226",
+    "href": "tel:+18047412226",
+    "aria": "8 0 4, 7 4 1, 2 2 2 6"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Mechanicsville",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "7521 Right Flank Rd.",
+        "suite": "Suite 110",
+        "city_state": "Mechanicsville, VA 23116",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(804) 741-2226",
+        "href": "tel:+18047412226"
       },
-      "email": "info@mandtortho.com",
+      "email": "virtualconsult@rpdo.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Thu",
+          "time": "Pediatrics: 8:00 a.m. - 5:00 p.m."
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Fri",
+          "time": "Pediatrics: 8:00 a.m. - 1:00 p.m."
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Tue",
+          "time": "Orthodontics: 7:30 a.m. - 4:30 p.m."
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=7521+Right+Flank+Rd+Suite+110+Mechanicsville+VA+23116",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Short Pump",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "12270 West Broad St.",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Richmond, VA 23233",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-77.4938597",
+          "latitude": "37.5818695"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(804) 741-2226",
+        "href": "tel:+18047412226"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "virtualconsult@rpdo.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "Pediatrics: 8:00 a.m. - 5:00 p.m."
+        },
+        {
+          "day": "Fri",
+          "time": "Pediatrics: 8:00 a.m. - 1:00 p.m."
+        },
+        {
+          "day": "Mon, Wed - Fri",
+          "time": "Orthodontics: 7:30 a.m. - 4:30 p.m."
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=12270+West+Broad+St+Richmond+VA+23233",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Midlothian",
+      "address": {
+        "street": "13901 Coalfield Commons Pl.",
+        "suite": "Suite 101",
+        "city_state": "Midlothian, VA 23114",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(804) 741-2226",
+        "href": "tel:+18047412226"
+      },
+      "email": "virtualconsult@rpdo.com",
+      "hours": [
+        {
+          "day": "Tue & Thu",
+          "time": "Orthodontics: 7:30 a.m. - 4:30 p.m."
+        },
+        {
+          "day": "Wed",
+          "time": "Pediatrics: 8:00 a.m. - 5:00 p.m."
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=13901+Coalfield+Commons+Pl+Suite+101+Midlothian+VA+23114",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "West End",
+      "address": {
+        "street": "2560 Gaskins Rd.",
+        "suite": "",
+        "city_state": "Richmond, VA 23238",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(804) 741-2226",
+        "href": "tel:+18047412226"
+      },
+      "email": "virtualconsult@rpdo.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "Pediatrics: 8:00 a.m. - 5:00 p.m."
+        },
+        {
+          "day": "Fri",
+          "time": "Pediatrics: 8:00 a.m. - 1:00 p.m."
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=2560+Gaskins+Rd+Richmond+VA+23238",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Richmond (Orthodontics)",
+      "address": {
+        "street": "8503 Patterson Ave.",
+        "suite": "",
+        "city_state": "Richmond, VA 23229",
+        "coordinates": {
+          "longitude": "-77.5331110",
+          "latitude": "37.5921330"
+        }
+      },
+      "phone": {
+        "number": "(804) 740-7281",
+        "href": "tel:+18047407281"
+      },
+      "email": "virtualconsult@rpdo.com",
+      "hours": [
+        {
+          "day": "Mon & Wed",
+          "time": "Orthodontics: 7:30 a.m. - 4:30 p.m."
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=8503+Patterson+Ave+Richmond+VA+23229",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -95,27 +192,27 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "Short Pump · 12270 West Broad St., Richmond, VA 23233",
+        "href": "https://www.google.com/maps/search/?api=1&query=12270+West+Broad+St+Richmond+VA+23233",
+        "label": "View 12270 West Broad St., Richmond, VA 23233 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(804) 741-2226",
+        "href": "tel:+18047412226",
+        "label": "Call (804) 741-2226",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID-19 Update",
+      "text": "We’re open and following enhanced safety protocols to keep families safe — learn more about how we protect patients and staff.",
+      "mobile_text": "COVID-19 Update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID-19 & Office Safety",
+        "text": "Richmond Pediatric Dentistry & Orthodontics continues to follow enhanced infection control and screening procedures. If you have questions about safety protocols, scheduling, or virtual consults, please contact us and we’ll walk you through the options to keep your family safe and your care on schedule."
       }
     }
   },
@@ -150,7 +247,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/rpdosmiles/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/rpdosmiles/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.x.com/rpdosmiles",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.youtube.com/@rpdosmiles",
         "icon": "youtube"
       }
     ],
@@ -158,12 +267,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Richmond Pediatric Dentistry & Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://rpdo.com/wp-content/uploads/2024/09/RPDO-18-0300-Logo-SCREEN-Circle-Seal-RGB-Seafoam-Tooth-Navy-Type.png",
       "webp": "",
-      "alt": "",
+      "alt": "RPDO logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +280,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
